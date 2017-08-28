@@ -1,0 +1,14 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="pading10">10dp</dimen>
+    <dimen name="marg50">50dp</dimen>
+    <dimen name="hig40">40dp</dimen>
+    <dimen name="high10">10dp</dimen>
+    <dimen name="w25dp">25dp</dimen>
+    <dimen name="h25dp">25dp</dimen>
+    <dimen name="text18sp">12sp</dimen>
+    <dimen name="logow">90dp</dimen>
+    <dimen name="logomarg">20dp</dimen>
+    <dimen name="logoh">50dp</dimen>
+    <dimen name="pading20">20dp</dimen>
+</resources>
